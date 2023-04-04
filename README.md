@@ -16,13 +16,12 @@ I am a German student, who is passionate about Data Engineering and Infrastructu
 
 |  |
 | --- |
-| [Simple open source sample Data Lake infrastructure, deployed in containers](https://example.com/data-lake-infrastructure) |
+| [Sample Data Lakehouse architecture, deployed in containers](https://github.com/dominikhei/Local-Data-LakeHouse) |
 | [ELT batch processing on Aws and data modeling with dbt](https://github.com/dominikhei/aws-elt) |
 | [Open source contribution of mine, to one of the largest process mining libraries in Python](https://github.com/pm4py/pm4py-core/pull/383) |
 
 
-## Certifications:
-![DBT Developer](dbt.png)
+
 
 
 ## GitHub Stats:
