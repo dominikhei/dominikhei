@@ -4,7 +4,7 @@
 </h1>
 
 
-I am a German student, who is passionate about Data Engineering and Infrastructure. I have work experience in Data Engineering and traditional Sql based Data Warehousing. Currently learning more about AWS.
+I am a German student, who is passionate about Data Engineering and Infrastructure. I have work experience in Data Engineering and traditional Sql based Data Warehousing. In my free time I like learning new skills and concepts in that area and building completely overengineered projects, which are showcased on my Github. 
 
 
 ## Tech Stack:
@@ -24,9 +24,6 @@ __Data Pipelines__ ⚙️
 __Open source contributions__ 💡
  
 - [Open source contribution of mine, to one of the largest process mining libraries in Python](https://github.com/pm4py/pm4py-core/pull/383) 
-
-
-
 
 
 ## GitHub Stats:
