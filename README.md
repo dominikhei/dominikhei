@@ -16,6 +16,7 @@ I am a German student, who is passionate about Data Engineering and Infrastructu
 __Infrastrcuture / Data Platform__ 🏗
 
 - [Sample Data Lakehouse architecture, deployed in containers](https://github.com/dominikhei/Local-Data-LakeHouse) 
+- [Simple beginner guide to containerization with docker, with a focus on storage and build time reduction](https://github.com/dominikhei/the-docker-guide)
 
 __Data Pipelines__ ⚙️
  
