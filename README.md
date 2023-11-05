@@ -4,7 +4,7 @@
 </h1>
 
 
-I am a German student, who is passionate about Data Engineering and Infrastructure. I have work experience in Data Engineering and Data Warehousing. In my free time I like learning new skills and concepts and building completely overengineered projects, which are showcased on my Github. 
+I am a German student, who is passionate about Data Engineering and Infrastructure. I have work experience in Data- and Software Engineering. In my free time I like learning new skills and concepts and building completely overengineered projects, which are showcased on my Github. 
 
 
 ## Tech Stack:
