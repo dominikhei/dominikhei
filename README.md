@@ -1,10 +1,4 @@
-<h1>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-
-I am a German student, who is passionate about Data Engineering and Infrastructure. I have work experience in Data- and Software Engineering. In my free time I like learning new skills and concepts and building completely overengineered projects, which are showcased on my Github. 
+I am a German student, who is passionate about Data Engineering and Infrastructure.
 
 
 ## Tech Stack:
