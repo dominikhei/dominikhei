@@ -28,7 +28,7 @@ __Open source contributions__ 💡
 | Apache Airflow | Functionality and respective unit tests to export and import roles including permissions using the Airflow CLI | [Merged Pull-Request](https://github.com/apache/airflow/pull/36347) |
 | Apache Airflow | Changed the Airflow docker-compose to easily ingest custom config files and added relevant documentation       | [Merged Pull-Request](https://github.com/apache/airflow/pull/36289) |
 | PM4PY          | Functionality to filter for a maximum coverage percentage of graph variants                                    | [Merged Pull-Request](https://github.com/pm4py/pm4py-core/pull/383) |
-| Apache Airflow | Added missing documentation for an Operator                                                                    | [Merged Pull-Request](https://github.com/pm4py/pm4py-core/pull/383) |
+| Apache Airflow | Added missing documentation for an Operator                                                                    | [Merged Pull-Request](https://github.com/apache/airflow/pull/44787) |
 
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dominikhei&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
