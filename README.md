@@ -21,6 +21,9 @@ __Cloud / Data Platform__  🏗
 - [Sample Data Lakehouse architecture, deployed in containers](https://github.com/dominikhei/Local-Data-LakeHouse) 
 
 __Open source contributions__ 💡
+
+<details open>
+  <summary>Click to expand</summary>
  
 | Project        | Added                                                                                                          | Link                                                                |
 |----------------|----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
@@ -29,5 +32,7 @@ __Open source contributions__ 💡
 | PM4PY          | Functionality to filter for a maximum coverage percentage of graph variants                                    | [Merged Pull-Request](https://github.com/pm4py/pm4py-core/pull/383) |
 | Apache Airflow | Added missing documentation for an Operator                                                                    | [Merged Pull-Request](https://github.com/apache/airflow/pull/44787) |
 | Apache Airflow | Changed the Kubernetes JobOperator to solve an existing race condition                                         | [Closed Pull-Request](https://github.com/apache/airflow/pull/48121)
+</details>
+
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dominikhei&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
