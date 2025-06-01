@@ -22,7 +22,7 @@ __Cloud / Data Platform__  🏗
 
 __Open source contributions__ 💡
 
-<details open>
+<details closed>
   <summary>Click to expand</summary>
  
 | Project        | Added                                                                                                          | Link                                                                |
@@ -32,6 +32,8 @@ __Open source contributions__ 💡
 | PM4PY          | Functionality to filter for a maximum coverage percentage of graph variants                                    | [Merged Pull-Request](https://github.com/pm4py/pm4py-core/pull/383) |
 | Apache Airflow | Added missing documentation for an Operator                                                                    | [Merged Pull-Request](https://github.com/apache/airflow/pull/44787) |
 | Apache Airflow | Changed the Kubernetes JobOperator to solve an existing race condition                                         | [Closed Pull-Request](https://github.com/apache/airflow/pull/48121)
+| Apache Airflow | Changed internals of db export-archived command to write table rows in batches and not run into OOM issues     | [Merged Pull-Request](https://github.com/apache/airflow/pull/51268)
+| Apache Airflow | Fixed Regression with the RDS Operator                                                                         | [Merged Pull-Request](https://github.com/apache/airflow/pull/51196)
 </details>
 
 ## GitHub Stats:
