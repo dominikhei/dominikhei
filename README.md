@@ -1,4 +1,4 @@
-I am a German student, who is passionate about Platform & Cloud Engineering as well as Data Engineering and the intersection of both.
+I am a German student, who is passionate about Platform & Cloud Engineering as well as Data Engineering and the intersection of both. Currently focusing on cloud system design and event-streaming.
 
 
 ## Tech Stack:
