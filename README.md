@@ -34,6 +34,7 @@ __Open source contributions__ 💡
 | Apache Airflow | Changed the Kubernetes JobOperator to solve an existing race condition                                         | [Closed Pull-Request](https://github.com/apache/airflow/pull/48121)
 | Apache Airflow | Changed internals of db export-archived command to write table rows in batches and not run into OOM issues     | [Merged Pull-Request](https://github.com/apache/airflow/pull/51268)
 | Apache Airflow | Fixed Regression with the RDS Operator                                                                         | [Merged Pull-Request](https://github.com/apache/airflow/pull/51196)
+| Apache Airflow | Cleaned various AWS operator's Constructors and added tests to avoid regression                                | [Merged Pull-Request](https://github.com/apache/airflow/pull/51236)
 </details>
 
 ## GitHub Stats:
