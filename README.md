@@ -16,7 +16,6 @@ __Cloud / Data Platform__  🏗
 
 - [Distributed System on Aws streaming earthquakes in real-time](https://github.com/dominikhei/eartquake-streaming)
 - [Custom Terraform provider extending the AWS ECR provider package](https://github.com/dominikhei/terraform-provider-ecr-build-push-image)
-- [Sample Data Lakehouse architecture, deployed in containers](https://github.com/dominikhei/Local-Data-LakeHouse) 
 
 [__Open source contributions__](https://github.com/apache/airflow/pulls?q=+is%3Apr+author%3Adominikhei+) 💡
 
