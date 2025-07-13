@@ -1,4 +1,5 @@
 I am a German student, who is passionate about Platform & Cloud Engineering as well as Data Engineering and the intersection of both.
+Current book reccomendation: Systems Performance - Brendan Gregg
 
 
 ## Tech Stack:
