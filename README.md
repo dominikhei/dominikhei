@@ -1,4 +1,4 @@
-I am a German student, who is passionate about Platform & Cloud Engineering as well as Data Engineering and the intersection of both.
+I am a German student, who is passionate about Platform, Cloud and Systems Engineering.
 Current book reccomendation: Systems Performance - Brendan Gregg
 
 
@@ -13,10 +13,11 @@ Current book reccomendation: Systems Performance - Brendan Gregg
 
 ## Example projects, if you are interested in ...
 
-__Cloud / Data Platform__  🏗
+__Cloud / Platform__  🏗
 
 - [Distributed System on Aws streaming earthquakes in real-time](https://github.com/dominikhei/eartquake-streaming)
 - [Custom Terraform provider extending the AWS ECR provider package](https://github.com/dominikhei/terraform-provider-ecr-build-push-image)
+- [Go SDK to gather statistics on AWS lambda functions](https://github.com/dominikhei/serverless-statistics)
 
 [__Open source contributions__](https://github.com/apache/airflow/pulls?q=+is%3Apr+author%3Adominikhei+) 💡
 
