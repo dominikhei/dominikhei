@@ -14,7 +14,7 @@ Current book reccomendation: Systems Performance by Brendan Gregg
 
 ## Example projects, if you are interested in ...
 
-__Cloud / Platform__  🏗
+__Infrastructure__  🏗
 
 - [Distributed System on Aws streaming earthquakes in real-time](https://github.com/dominikhei/eartquake-streaming)
 - [Custom Terraform provider extending the AWS ECR provider package](https://github.com/dominikhei/terraform-provider-ecr-build-push-image)
