@@ -23,6 +23,3 @@ __Infrastructure__  🏗
 - [Go SDK to gather metrics on AWS lambda functions](https://github.com/dominikhei/serverless-statistics)
 
 [__Open source contributions__](https://github.com/apache/airflow/pulls?q=+is%3Apr+author%3Adominikhei+) 💡
-
-## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dominikhei&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
