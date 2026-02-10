@@ -1,6 +1,4 @@
-Platform Engineer, pasionate about Open Source. Living between Yaml and Powerpoint.
-
-Current book reccomendation: Systems Performance by Brendan Gregg
+Platform Engineer, pasionate about Open Source. 
 
 
 ## Tech Stack:
