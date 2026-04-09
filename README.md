@@ -10,4 +10,4 @@ Amongst other Projects, I am a [Contributor to Apache Airflow](https://github.co
 
 ### Selected Projects
 - [Custom Terraform provider extending the AWS ECR provider package](https://github.com/dominikhei/terraform-provider-ecr-build-push-image)
-- [Go SDK to gather metrics on AWS lambda functions](https://github.com/dominikhei/serverless-statistics)
+- [Go tool to gather and drop unused Prometheus metrics](https://github.com/dominikhei/cardamon)
